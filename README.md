@@ -31,14 +31,14 @@
 <h1 align="left">What's next ?</h1>
 <h3 align="left">Frontend Development</h3>
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src = "https://static-00.iconduck.com/assets.00/vuejs-original-wordmark-icon-1736x2048-4z2z3y92.png" alt="vue.js" width="50" height="50"/></a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="next.js" width="50" height="50"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src = "https://static-00.iconduck.com/assets.00/vuejs-original-wordmark-icon-1736x2048-4z2z3y92.png" alt="vue.js" width="100" height="100"/></a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="next.js" width="100" height="100"/></a>
 </p>
 <h3 align="left">Backend Development</h3>
 <p align="left">
-<a href="https://expressjs.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express.js" width="50" height="50"/></a>
-<a href="https://nestjs.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/2120px-NestJS.svg.png" alt="nestjs" width="50" height="50"/></a>
+<a href="https://expressjs.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express.js" width="200" height="100"/></a>
+<a href="https://nestjs.com/fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/2120px-NestJS.svg.png" alt="nestjs" width="100" height="100"/></a>
 </p>
 
 <h1 align"left">All Hard Skills</h1>
@@ -89,4 +89,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolyrak&show_icons=true&theme=dark&locale=en" alt="dolyrak" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dolyrak&show_icons=true&theme=dark&locale=en" alt="dolyrak" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolyrak&show_icons=true&theme=dark&locale=en" alt="dolyrak" />
